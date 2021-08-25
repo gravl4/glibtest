@@ -8,7 +8,7 @@ mod tests {
 
 #[allow(dead_code)] // отключаем предупреждение о неиспользуемом коде
 pub mod glib {
-    pub fn m5_lib_test() {
+    pub fn m6_lib_test() {
         println!("LIB FROM GITHUB")
     }
 
