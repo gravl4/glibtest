@@ -12,3 +12,7 @@ pub mod m_gitlib {
         println!("LIB FROM GITHUB")
     }
 }
+
+pub fn m2_lib_test() {
+    println!("LIB FROM2 GITHUB")
+}
